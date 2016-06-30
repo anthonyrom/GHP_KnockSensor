@@ -14,6 +14,8 @@ Guide
 Wire up your sensor. Connect it to VCC, GND, and a digital pin.
 Hook up a couple of LEDs to digital pins.
 
+![Wiring](https://i.imgur.com/pkajAoP.png)
+
 ##### The Software
 
 You can download and modify the code from the repository if you want. Outlined below is the functionality of the software.
