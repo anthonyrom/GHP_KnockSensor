@@ -3,7 +3,9 @@
 Description
 -----------
 
+
 A simple Arduino program using a Keyes KY-031 Knock Impact Sensor. The program increments a counter every time the sensor is activated. Inspired by FizzBuzz, the program lights up LEDs based on specified divisibility. For example, a certain LED might light up on knocks 3, 6, 9, and so on.
+
 ------------
 Guide
 ------------
